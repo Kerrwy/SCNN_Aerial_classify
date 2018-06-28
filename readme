@@ -1,0 +1,10 @@
+环境 linux,python2.7
+
+1. 解压 tar zxvf Aerial_snn_classify.tar.gz
+
+2. 在python下安装需要的包
+	pip install keras==2.1.5
+	pip install tensorflow==1.4.0
+	ip install future
+
+3. 运行RunCodes里面的main函数

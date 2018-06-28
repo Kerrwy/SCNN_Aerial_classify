@@ -1,0 +1,39 @@
+scnn, batch=50, acc=100.00% 
+ann , batch=50, acc=100.00% 
+
+scnn, batch=100, acc=96.00% 
+ann , batch=100, acc=100.00% 
+
+scnn, batch=150, acc=88.00% 
+ann , batch=150, acc=98.00% 
+
+scnn, batch=200, acc=98.00% 
+ann , batch=200, acc=98.00% 
+
+scnn, batch=250, acc=98.00% 
+ann , batch=250, acc=98.00% 
+
+scnn, batch=300, acc=100.00% 
+ann , batch=300, acc=98.33% 
+
+scnn, batch=350, acc=96.00% 
+ann , batch=350, acc=98.57% 
+
+scnn, batch=400, acc=94.00% 
+ann , batch=400, acc=98.75% 
+
+scnn, batch=450, acc=96.00% 
+ann , batch=450, acc=98.67% 
+
+scnn, batch=500, acc=98.00% 
+ann , batch=500, acc=98.60% 
+
+scnn, batch=550, acc=90.00% 
+ann , batch=550, acc=98.36% 
+
+scnn, batch=600, acc=94.00% 
+ann , batch=600, acc=98.00% 
+
+scnn, batch=650, acc=100.00% 
+ann , batch=650, acc=98.15% 
+

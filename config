@@ -1,0 +1,29 @@
+[paths]
+dataset_path = ../Aerial_test_data/__TestData__
+
+[tools]
+normalize = True
+evaluate_ann = False
+
+[simulation]
+simulator = INI
+duration = 20
+num_to_test = 654
+batch_size = 50
+keras_backend = tensorflow
+
+[input]
+model_lib = keras
+poisson_input = False
+input_rate = 1000
+
+[normalization]
+percentile = 99.9
+
+[cell]
+v_thresh = 0.5
+
+[output]
+log_vars = {'all'}
+plot_vars = {'all'}
+
